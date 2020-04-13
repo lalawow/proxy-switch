@@ -16,11 +16,10 @@
   },
   "keywords": [
     "proxy",
-    "switcher",
+    "switch",
     "npm",
     "yarn",
     "git",
-    "docker",
     "cli"
   ],
   "author": "lalawow",
