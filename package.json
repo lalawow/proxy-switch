@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/lalawow/proxy-switcher-cli",
   "bin": {
-    "proxy-sw": "./bin/index.js"
+    "proxy-switch": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
