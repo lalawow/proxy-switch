@@ -1,8 +1,13 @@
 {
   "name": "proxy-switch",
-  "version": "0.0.2",
-  "description": "an open source proxy switcher",
+  "version": "1.0.0",
+  "description": "an open source proxy switch cli tool for npm, yarn, git",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalawow/proxy-switcher-cli"
+  },
+  "homepage": "https://github.com/lalawow/proxy-switcher-cli",
   "bin": {
     "proxy-sw": "./bin/index.js"
   },
@@ -15,10 +20,11 @@
     "npm",
     "yarn",
     "git",
-    "docker"
+    "docker",
+    "cli"
   ],
   "author": "lalawow",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
     "child_process": "^1.0.2",
