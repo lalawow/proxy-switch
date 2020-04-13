@@ -1,6 +1,6 @@
 {
   "name": "proxy-switch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "an open source proxy switch cli tool for npm, yarn, git",
   "main": "index.js",
   "repository": {
