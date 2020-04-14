@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lalawow/proxy-switcher-cli"
+    "url": "https://github.com/lalawow/proxy-switch"
   },
-  "homepage": "https://github.com/lalawow/proxy-switcher-cli",
+  "homepage": "https://github.com/lalawow/proxy-switch",
   "bin": {
     "proxy-switch": "./bin/index.js"
   },

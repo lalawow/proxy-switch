@@ -1,4 +1,4 @@
-# proxy-switcher-cli
+# proxy-switch
 An easy proxy switch cli.
 The supported apps are including git, npm , yarn.
 
