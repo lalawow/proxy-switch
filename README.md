@@ -1,5 +1,5 @@
 # proxy-switch
-An easy proxy switch cli.
+An easy-to-use proxy switch cli.
 The supported apps are including git, npm , yarn.
 
 ## Install
